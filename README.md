@@ -8,7 +8,7 @@
 
 4. You can find my Zenn Blog [here](https://zenn.dev/Prog0123)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Prog0123&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
