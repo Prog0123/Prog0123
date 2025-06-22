@@ -36,12 +36,11 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 🛠️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,rails&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=rails&theme=dark" alt="Frameworks"/>
 </div>
 
 <div align="center">
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 </div>
@@ -89,9 +88,9 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ```javascript
 const currentFocus = {
-  learning: ["React Development", "Ruby on Rails", "Database Design"],
+  learning: ["Ruby on Rails", "Database Design", "Web Development Fundamentals"],
   building: ["Web Applications", "User Interfaces", "Clean Code"],
-  exploring: ["Modern CSS", "JavaScript Frameworks", "Backend Development"],
+  exploring: ["Modern CSS", "JavaScript", "Backend Development"],
   goals: ["Code Quality", "Best Practices", "Continuous Learning"]
 };
 ```
