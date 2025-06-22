@@ -104,11 +104,11 @@ const currentFocus = {
 - 📚 Continuous learner with a growth mindset
 - ☕ Powered by coffee and curiosity
 
-## 💫 Always Open to Collaboration!
+## 🌱 Learning Journey
 
 <div align="center">
   
-  **Feel free to explore my repositories and don't hesitate to reach out for interesting projects!**
+  **Currently on a journey to become a better developer. Every day is a new opportunity to learn and grow!**
   
 </div>
 
