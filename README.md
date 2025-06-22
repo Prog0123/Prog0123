@@ -36,18 +36,19 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 🛠️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rails&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,rails&theme=dark" alt="Frameworks"/>
 </div>
 
 <div align="center">
   
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 </div>
 
 ### 🗄️ Databases & Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,figma&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,figma&theme=dark" alt="Tools"/>
 </div>
 
 <div align="center">
@@ -88,9 +89,9 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ```javascript
 const currentFocus = {
-  learning: ["Ruby on Rails", "Database Design", "Web Development Fundamentals"],
+  learning: ["React Development", "Ruby on Rails", "Database Design"],
   building: ["Web Applications", "User Interfaces", "Clean Code"],
-  exploring: ["Modern CSS", "JavaScript", "Backend Development"],
+  exploring: ["Modern CSS", "JavaScript Frameworks", "Backend Development"],
   goals: ["Code Quality", "Best Practices", "Continuous Learning"]
 };
 ```
