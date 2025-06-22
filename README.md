@@ -47,7 +47,7 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 🗄️ Databases & Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,figma&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,figma&theme=dark" alt="Tools"/>
 </div>
 
 <div align="center">
