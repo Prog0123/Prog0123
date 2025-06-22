@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Things;Building+Amazing+Experiences)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web+Developer;Creative+Problem+Solver;Always+Learning+New+Things;Building+Amazing+Experiences)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate developer who loves crafting beautiful, functional, and user-friendly applications. My journey in tech is driven by curiosity, creativity, and the desire to solve real-world problems through elegant code.
+I'm a passionate web developer who loves crafting beautiful, functional, and user-friendly applications. My journey in tech is driven by curiosity, creativity, and the desire to solve real-world problems through elegant code.
 
 <div align="center">
 
@@ -89,10 +89,10 @@ I'm a passionate developer who loves crafting beautiful, functional, and user-fr
 
 ```javascript
 const currentFocus = {
-  learning: ["Advanced React Patterns", "Cloud Architecture", "DevOps Best Practices"],
-  building: ["Modern Web Applications", "API Design", "User Experience"],
-  exploring: ["AI/ML Integration", "Microservices", "Performance Optimization"],
-  goals: ["Clean Code", "Scalable Solutions", "Continuous Learning"]
+  learning: ["React Development", "Ruby on Rails", "Database Design"],
+  building: ["Web Applications", "User Interfaces", "Clean Code"],
+  exploring: ["Modern CSS", "JavaScript Frameworks", "Backend Development"],
+  goals: ["Code Quality", "Best Practices", "Continuous Learning"]
 };
 ```
 
