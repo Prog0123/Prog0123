@@ -24,7 +24,7 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,ruby&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ruby,tailwindcss&theme=dark" alt="Programming Languages"/>
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 🛠️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,rails&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=rails&theme=dark" alt="Frameworks"/>
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ I'm a passionate web developer who loves crafting beautiful, functional, and use
 
 ### 🗄️ Databases & Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,figma&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,figma&theme=dark" alt="Tools"/>
 </div>
 
 <div align="center">
