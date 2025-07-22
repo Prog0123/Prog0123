@@ -1,110 +1,168 @@
-# 👋 Hello, I'm Haru
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ruby+on+Rails+Enthusiast;Always+Learning+New+Things)
-  
-</div>
 
-## 🚀 About Me
+# ✨ Welcome to Haru's Digital Playground ✨
 
-I'm a passionate developer who loves creating innovative solutions and building web applications. I believe in writing clean, maintainable code and continuously learning new technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=🚀+Full-Stack+Developer+%7C+Ruby+on+Rails+Expert;💎+Building+Beautiful+Web+Experiences;🔥+Hotwire+%26+Modern+Rails+Enthusiast;⚡+Currently+Learning+TypeScript+%2B+React" alt="Typing SVG" />
 
-- 🔭 Currently working on **[Matcha](https://github.com/Prog0123/Matcha)**
-- 🌱 Learning **TypeScript, React**
-- 👯 Looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **Ruby on Rails, JavaScript, Web Development**
-- ⚡ Fun fact: **I debug with console.log and I'm not ashamed of it!**
+<br>
 
-## 🛠️ Tech Stack
+[![Profile Views](https://komarev.com/ghpvc/?username=Prog0123&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Prog0123)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Hotwire](https://img.shields.io/badge/-Hotwire-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-
-### Backend
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prog0123&theme=radical&hide_border=true)
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Prog0123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-</div>
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prog0123&theme=react-dark&hide_border=true)
-
-## 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-    learning: ["Hotwire", "Turbo", "Modern Rails Development"],
-    building: ["Matcha Project", "Web Applications with Rails & Hotwire"],
-    reading: ["Clean Code", "Ruby Best Practices", "Hotwire Handbook"],
-    goals: ["Master Hotwire ecosystem", "Build reactive web apps without JavaScript frameworks"]
-};
-```
-
-## 📝 Featured Projects
-
-- 🎯 **[Matcha](https://github.com/Prog0123/Matcha)** - My current main project
-- 🚀 More projects coming soon...
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prog0123)
-  
-</div>
-
-## 💭 Quote
-
-<div align="center">
-  
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prog0123.Prog0123)
-  
-  ⭐️ From [Prog0123](https://github.com/Prog0123)
-  
+
+## 🎯 About Me
+
 </div>
+
+```ruby
+class Haru < Developer
+  def initialize
+    @name = "Haru"
+    @role = "Full-Stack Developer"
+    @language_spoken = ["ja", "en"]
+    @current_focus = "Building amazing web experiences"
+  end
+
+  def current_projects
+    [
+      "🎯 Matcha - My flagship project",
+      "🚀 Exploring modern Rails patterns",
+      "💡 Learning TypeScript & React ecosystem"
+    ]
+  end
+
+  def daily_routine
+    [
+      "☕ Coffee first",
+      "💻 Code with passion", 
+      "🔍 Debug with curiosity",
+      "📚 Learn something new",
+      "🌙 Dream in code"
+    ]
+  end
+
+  def goals
+    {
+      2025 => "Master TypeScript & React",
+      2026 => "Build the next big thing",
+      "life" => "Make the web a better place"
+    }
+  end
+end
+```
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+</div>
+
+<div align="center">
+
+### 💎 Backend Mastery
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### ⚡ Frontend Power
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Hotwire](https://img.shields.io/badge/Hotwire-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://hotwired.dev/)
+
+### 🚀 Learning Journey
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&opacity=0.7)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&opacity=0.7)]()
+
+### 🛠️ DevOps & Tools
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prog0123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prog0123&layout=compact&langs_count=8&theme=algolia"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prog0123&theme=algolia&border_radius=5)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievement Showcase
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Prog0123&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prog0123&custom_title=Haru's%20Contribution%20Graph&bg_color=050F2C&color=00D8FF&line=00D8FF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Mission
+
+</div>
+
+```javascript
+const haruCurrentStatus = {
+  workingOn: {
+    project: "🎯 Matcha",
+    description: "Building something amazing with Rails",
+    repository: "https://github.com/Prog0123/Matcha",
+    status: "🔥 In active development"
+  },
+  
+  learning: {
+    frontend: ["TypeScript", "React"],
+    backend: ["Advanced Rails patterns", "API design"],
+    devops: ["Docker optimization", "Render deployments"],
+    design: ["Modern UI/UX with Figma"]
+  },
+  
+  2025Goals: [
+    "🚀 Launch Matcha to production",
+    "💪 Master TypeScript fundamentals",
