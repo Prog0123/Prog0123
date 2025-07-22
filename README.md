@@ -20,14 +20,13 @@ I'm a passionate developer who loves creating innovative solutions and building 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Hotwire](https://img.shields.io/badge/-Hotwire-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 ### Backend
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
@@ -72,10 +71,10 @@ I'm a passionate developer who loves creating innovative solutions and building 
 
 ```javascript
 const currentFocus = {
-    learning: ["TypeScript", "React", "Modern Frontend Development"],
-    building: ["Matcha Project", "Web Applications with Rails"],
-    reading: ["Clean Code", "Ruby Best Practices"],
-    goals: ["Master React ecosystem", "Build scalable web applications"]
+    learning: ["Hotwire", "Turbo", "Modern Rails Development"],
+    building: ["Matcha Project", "Web Applications with Rails & Hotwire"],
+    reading: ["Clean Code", "Ruby Best Practices", "Hotwire Handbook"],
+    goals: ["Master Hotwire ecosystem", "Build reactive web apps without JavaScript frameworks"]
 };
 ```
 
