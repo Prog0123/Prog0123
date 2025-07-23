@@ -5,9 +5,7 @@
   
   <br/>
   
-  <!-- GitHub Streak - より安定した設定 -->
-
-  <!-- バックアップ用の代替URL -->
+  <!-- GitHub Streak - 深緑テーマで統一 -->
   <img src="https://streak-stats.demolab.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true" />
   
   <br/>
