@@ -5,8 +5,8 @@
   
   <br/>
   
-  <!-- GitHub Streak - 深緑テーマで統一 -->
-  <img src="https://streak-stats.demolab.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true" />
+  <!-- GitHub Streak - より安定した設定 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true" />
   
   <br/>
   
@@ -24,6 +24,6 @@
   
   <br/>
   
-  <!-- トロフィー - 深緑matrixテーマ、より密に配置 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=8&row=1" />
+  <!-- トロフィー - 深緑matrixテーマ、背景付き -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1" />
 </div>
