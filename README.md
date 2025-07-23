@@ -25,5 +25,5 @@
   <br/>
   
   <!-- トロフィー - 深緑matrixテーマ、背景付き -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1" />
+  <img height="120em" src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1" />
 </div>
