@@ -11,7 +11,7 @@
   <br/>
   
   <!-- プロフィール詳細 - 幅を縮小 -->
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prog0123&theme=github_dark" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prog0123&theme=github_dark" />
   
   <br/>
   
@@ -25,5 +25,5 @@
   <br/>
   
   <!-- トロフィー - 深緑matrixテーマ、背景付き -->
-  <img height="80em" src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1" />
+  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1" />
 </div>
