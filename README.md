@@ -1,7 +1,7 @@
 <div align="center">
   <!-- メイン統計情報 - コンパクト配置 -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0a&title_color=00ff7f&icon_color=32cd32&text_color=90ee90&ring_color=228b22&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=6&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0a&title_color=00ff7f&icon_color=32cd32&text_color=90ee90&ring_color=228b22&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=6&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="Top Languages" />
   
   <br/>
   
