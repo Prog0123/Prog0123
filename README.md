@@ -6,7 +6,7 @@
   <br/>
   
   <!-- GitHub Streak - より安定した設定 -->
-  <img height="160em" src="https://streak-stats.demolab.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br/>
   
