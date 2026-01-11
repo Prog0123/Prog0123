@@ -1,23 +1,26 @@
 <div align="center">
   <!-- メイン統計情報 - コンパクト配置 -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0a&title_color=00ff7f&icon_color=32cd32&text_color=90ee90&ring_color=228b22&border_color=228b22" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&border_color=228b22" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0a&title_color=00ff7f&icon_color=32cd32&text_color=90ee90&ring_color=228b22&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=6&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&border_color=228b22&cache_seconds=3600&disable_animations=true" alt="Top Languages" />
   
   <br/>
   
   <!-- GitHub Streak - より安定した設定 -->
-  <img height="160em" src="https://streak-stats.demolab.com/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Prog0123&theme=dark&background=0a0f0a&border=228b22&stroke=228b22&ring=00ff7f&fire=ff6347&currStreakNum=90ee90&sideNums=90ee90&currStreakLabel=00ff7f&sideLabels=90ee90&dates=90ee90&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br/>
   
-  <!-- アクティビティグラフ - プロフィール詳細の代替 -->
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prog0123&theme=github-compact&bg_color=0a0f0a&color=90ee90&line=00ff7f&point=32cd32&area=true&hide_border=true" alt="Activity Graph" />
+  <!-- プロフィール詳細 - 幅を縮小 -->
+  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=Prog0123&theme=dark&hide_border=true" alt="Profile Details" />
   
   <br/>
   
-  <!-- 統計カード群 - 2x2レイアウトでコンパクト（代替サービス使用） -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&icon_color=32cd32&hide_title=true&card_width=300" alt="Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=00ff7f&text_color=90ee90&card_width=300" alt="Most Commit Language" />
+  <!-- 統計カード群 - 2x2レイアウトでコンパクト -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Commit Language" />
+  <br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Prog0123&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="Repos Per Language" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Productive Time" />
   
   <br/>
   
