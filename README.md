@@ -11,16 +11,16 @@
   <br/>
   
   <!-- プロフィール詳細 - 幅を縮小 -->
-  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=Prog0123&theme=dark&hide_border=true" alt="Profile Details" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prog0123&theme=github_dark" alt="Profile Details" />
   
   <br/>
   
   <!-- 統計カード群 - 2x2レイアウトでコンパクト -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Commit Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prog0123&theme=github_dark" alt="Stats" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prog0123&theme=github_dark" alt="Most Commit Language" />
   <br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Prog0123&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="Repos Per Language" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Productive Time" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prog0123&theme=github_dark" alt="Repos Per Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prog0123&theme=github_dark&utcOffset=9" alt="Productive Time" />
   
   <br/>
   
