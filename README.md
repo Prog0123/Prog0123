@@ -24,6 +24,6 @@
   
   <br/>
   
-  <!-- トロフィー - 深緑matrixテーマ、背景付き -->
-  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=8&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <!-- トロフィー - シンプルなパラメータ設定 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
 </div>
