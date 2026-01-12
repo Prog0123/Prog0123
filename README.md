@@ -23,7 +23,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prog0123&theme=github_dark&utcOffset=9" alt="Productive Time" />
   
   <br/>
-  
-  <!-- トロフィー - シンプルなパラメータ設定 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Prog0123&theme=matrix&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  <!-- トロフィー - 代替URL -->
+  <img src="https://github-trophies.vercel.app/?username=Prog0123&theme=matrix&column=7" alt="GitHub Trophies" />
 </div>
